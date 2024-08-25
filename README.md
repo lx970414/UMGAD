@@ -7,7 +7,6 @@ This is the code for paper:
 Recent versions of the following packages for Python 3 are required:
 * networkx==2.8.4
 * numpy==1.22.3
-* PyYAML==6.0
 * PyYAML==6.0.1
 * Requests==2.31.0
 * scikit_learn==1.2.2
@@ -15,7 +14,6 @@ Recent versions of the following packages for Python 3 are required:
 * setuptools==60.2.0
 * sphinx_gallery==0.15.0
 * tensorboardX==2.6.2
-* tensorboardX==2.6.2.2
 * torch==1.10.1
 * torch_cluster==1.6.0
 * torch_geometric==2.2.0
