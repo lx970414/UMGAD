@@ -261,7 +261,7 @@ if __name__ == "__main__":
     args = build_args()
         
     if args.use_cfg:
-        args = load_best_configs(args, "config_ada-gad.yml")
+        args = load_best_configs(args, "config_gad.yml")
 
     if args.alpha_f=='None':
         args.alpha_f=None
