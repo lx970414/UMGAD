@@ -5,6 +5,7 @@ This is the code for paper:
 
 ## Framework
 ![Framework](./Framework.png)
+We propose a novel framework named UMGAD for unsupervised graph anomaly detection tasks. By integrating graph autoencoders with diverse masking strategies across multiple relation types, UMGAD captures rich anomaly signals while suppressing redundancy. It leverages attribute and structure reconstruction in the augmented view, followed by anomaly aggregation via dual-view contrastive learning, ensuring robust detection.
 
 ## Dependencies
 Recent versions of the following packages for Python 3 are required:
