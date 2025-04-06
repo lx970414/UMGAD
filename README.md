@@ -3,6 +3,9 @@
 This is the code for paper:
 > UMGAD: Unsupervised Multiplex Graph Anomaly Detection
 
+## Framework
+![Framework](https://photos.app.goo.gl/bVYQZLNBH4VSxQEJ6)
+
 ## Dependencies
 Recent versions of the following packages for Python 3 are required:
 * networkx==2.8.4
