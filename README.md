@@ -4,7 +4,7 @@ This is the code for paper:
 > UMGAD: Unsupervised Multiplex Graph Anomaly Detection
 
 ## Framework
-![Framework](https://photos.app.goo.gl/xXCfBRi1sz7a4yag9)
+![Framework](./Framework.png)
 
 ## Dependencies
 Recent versions of the following packages for Python 3 are required:
