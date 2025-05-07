@@ -157,7 +157,7 @@ weibo:
   loss_weight_f: -0.001
   alpha_f: 0.9938
   replace_rate: 0.5
-  # Configuration Added Below for weibo
+  # Configuration Added Below for Weibo
   model_name: "ADANET"
   loss_f: "add_log_t_entropy"
   attention: 2
@@ -216,7 +216,7 @@ reddit:
   loss_weight_f: -0.01
   alpha_f: 0.5
   replace_rate: 0
-  # Configuration Added Below for reddit
+  # Configuration Added Below for Reddit
   model_name: "ADANET"
   loss_f: "add_log_t_entropy"
   attention: 2
@@ -276,7 +276,7 @@ disney:
   loss_weight_f: -0.01
   alpha_f: 0.9
   replace_rate: 0.3
-  # Configuration Added Below for disney
+  # Configuration Added Below for Disney
   model_name: "ADANET"
   loss_f: "add_log_t_entropy"
   attention: 2
@@ -395,7 +395,7 @@ enron:
   loss_weight_f: -0.001
   alpha_f: 0.7
   replace_rate: 0
-  # Configuration Added Below for enron
+  # Configuration Added Below for Enron
   model_name: "ADANET"
   loss_f: "add_log_t_entropy"
   attention: 2
