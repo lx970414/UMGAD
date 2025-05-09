@@ -35,3 +35,14 @@ The used datasets are available at:
 * YelpChi https://docs.dgl.ai/api/python/dgl.data.html#fraud-dataset
 
 Kindly note that there may be two versions of node features for YelpChi. The old version has a dimension of 100 and the new version is 32. In our paper, the results are reported based on the new features.
+
+## Citation
+If you find UMGAD useful in your research, please cite the following paper:
+```bibtex
+@article{li2024umgad,
+  title={UMGAD: Unsupervised Multiplex Graph Anomaly Detection},
+  author={Li, Xiang and Qi, Jianpeng and Zhao, Zhongying and Zheng, Guanjie and Cao, Lei and Dong, Junyu and Yu, Yanwei},
+  journal={arXiv preprint arXiv:2411.12556},
+  year={2024}
+}
+```
