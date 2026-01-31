@@ -19,12 +19,11 @@ Recent versions of the following packages for Python 3.10/3.11 are required:
 * setuptools==60.2.0
 * sphinx_gallery==0.15.0
 * tensorboardX==2.6.2
-* torch==1.10.1
-* torch_cluster==1.6.0
-* torch_geometric==2.2.0
-* torch_sparse==0.6.13
 * tqdm==4.66.4
 * dgl==0.4.1
+
+* torch>=2.1.0,<2.6.0
+* torch-geometric>=2.5.0,<2.6.0
 
 ## Datasets
 All of the datasets we use are publicly available datasets.
