@@ -1,8 +1,11 @@
-# UMGAD (ICDE 2025) — Reproduction Code (Unofficial)
+# UMGAD
 
-This repo re-implements **UMGAD: Unsupervised Multiplex Graph Anomaly Detection** as described in the ICDE'25 paper.
-It follows the paper's training objective (original-view reconstruction + augmented-view reconstruction + dual-view contrastive learning)
-and the **label-free anomaly-score threshold selection** strategy.
+This is the code for the paper:
+> UMGAD: Unsupervised Multiplex Graph Anomaly Detection (ICDE 2025)
+
+## Framework
+![Framework](./Framework.png)
+We propose a novel framework named UMGAD for unsupervised graph anomaly detection tasks. By integrating graph autoencoders with diverse masking strategies across multiple relation types, UMGAD captures rich anomaly signals while suppressing redundancy. It leverages attribute and structure reconstruction in the augmented view, followed by anomaly aggregation via dual-view contrastive learning, ensuring robust detection.
 
 > **Note**: Datasets are not bundled. This repo supports a simple `.npz` format for multiplex graphs so you can plug in your data.
 > You can also use the built-in anomaly injection routine described in the paper.
