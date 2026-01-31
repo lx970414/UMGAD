@@ -62,7 +62,7 @@ Outputs:
 If you use this repo, please cite the original ICDE 2025 paper (UMGAD).
 
 
-## 推荐运行方式（与 BPHGNN 类似的 src 结构）
+## Run
 
 ```bash
 bash run.sh --data data/your_graph.npz --device cuda
