@@ -21,7 +21,6 @@ Recent versions of the following packages for Python 3.10/3.11 are required:
 * tensorboardX==2.6.2
 * tqdm==4.66.4
 * dgl==0.4.1
-
 * torch>=2.1.0,<2.6.0
 * torch-geometric>=2.5.0,<2.6.0
 
